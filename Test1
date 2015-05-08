@@ -1,0 +1,13 @@
+operand1 = 95
+operand2 = 64.5
+
+print operand1
+print operand2 
+
+print "95 + 64.5 =" ,  operand1 + operand2
+print "95 - 64.5 =" ,  operand1 - operand2
+print "95 * 64.5 =" ,  operand1 * operand2
+print "95 / 64.5 =" ,  operand1 / operand2
+print "95 % 64.5 =" ,  operand1 % operand2
+
+#It is easier if you separate what you want to print from the actual operations. First, I printed the numbers and the operations between commas and then I did the actual operantions.
