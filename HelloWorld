@@ -1,0 +1,4 @@
+print "Hello world" 
+print "My name is Gabriela"
+print 2015 #printing an integrete
+print "2015" #printing a string 
