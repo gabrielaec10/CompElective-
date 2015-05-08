@@ -1,0 +1,15 @@
+mystring = "Hello" 
+myfloat = 10.0
+myint = 20.0
+
+print mystring 
+print myfloat
+print myint
+
+print "My favorite word is" , mystring , "number" , myfloat , "is my favorite number but I don't like number" , myint
+
+print myint + myfloat 
+print myint - myfloat
+print myint * myfloat 
+print myint / myfloat 
+print myint + 18 / myfloat
