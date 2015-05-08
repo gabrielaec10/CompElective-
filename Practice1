@@ -1,0 +1,19 @@
+#practice #1 
+#Create 5 variables that store your personal info 
+#Name, last name, adress, email, phone number 
+name = 'Gabriela'
+lastname = 'Estupinan' 
+address = 'Puerto Azul'
+email = '15gestupinan@iaa.edu.ec'
+phonenumber = 593985892140
+
+
+print name 
+print lastname
+print address
+print email 
+print phonenumber 
+
+print "My name is" , name, lastname , "."
+print "I live in" , adress, "."
+print "My phone number is" , phonenumber , "and my email is" , email , "."
