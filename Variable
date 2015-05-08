@@ -1,0 +1,25 @@
+name = "Gabriela Estupinan" 
+age = 18
+gpa = 3.3
+
+print name 
+print age 
+print gpa 
+
+print "my name is", name, ". I am" , age , "years old."""
+
+print "In ten years, I will be", age + 10
+
+#Dog years
+ageInHumanYears = 3
+ageInDogYears = ageInHumanYears * 7
+print "My Dog is" , ageInDogYears, "years old."
+print "But my dog is" , ageInDogYears, "years old in human years."
+
+
+MyNumer = 5 + 4 * 5 
+print MyNumer
+
+#Parens, Exponents, Multiplication, Division, Addittion, Substraction
+
+
